@@ -1,1 +1,1 @@
-## embedded software contest
+## Embedded Software Contest
